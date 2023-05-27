@@ -1,0 +1,210 @@
+Script started on 2023-02-13 23:51:30+01:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="211" LINES="55"]
+[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~[00m$ llrm -rf prpa[1P prpagit clone https://github.com/LuisLlana/prpa.git
+[?2004lCloning into 'prpa'...
+remote: Enumerating objects: 153, done.[K
+remote: Counting objects:   0% (1/153)[Kremote: Counting objects:   1% (2/153)[Kremote: Counting objects:   2% (4/153)[Kremote: Counting objects:   3% (5/153)[Kremote: Counting objects:   4% (7/153)[Kremote: Counting objects:   5% (8/153)[Kremote: Counting objects:   6% (10/153)[Kremote: Counting objects:   7% (11/153)[Kremote: Counting objects:   8% (13/153)[Kremote: Counting objects:   9% (14/153)[Kremote: Counting objects:  10% (16/153)[Kremote: Counting objects:  11% (17/153)[Kremote: Counting objects:  12% (19/153)[Kremote: Counting objects:  13% (20/153)[Kremote: Counting objects:  14% (22/153)[Kremote: Counting objects:  15% (23/153)[Kremote: Counting objects:  16% (25/153)[Kremote: Counting objects:  17% (27/153)[Kremote: Counting objects:  18% (28/153)[Kremote: Counting objects:  19% (30/153)[Kremote: Counting objects:  20% (31/153)[Kremote: Counting objects:  21% (33/153)[Kremote: Counting objects:  22% (34/153)[Kremote: Counting objects:  23% (36/153)[Kremote: Counting objects:  24% (37/153)[Kremote: Counting objects:  25% (39/153)[Kremote: Counting objects:  26% (40/153)[Kremote: Counting objects:  27% (42/153)[Kremote: Counting objects:  28% (43/153)[Kremote: Counting objects:  29% (45/153)[Kremote: Counting objects:  30% (46/153)[Kremote: Counting objects:  31% (48/153)[Kremote: Counting objects:  32% (49/153)[Kremote: Counting objects:  33% (51/153)[Kremote: Counting objects:  34% (53/153)[Kremote: Counting objects:  35% (54/153)[Kremote: Counting objects:  36% (56/153)[Kremote: Counting objects:  37% (57/153)[Kremote: Counting objects:  38% (59/153)[Kremote: Counting objects:  39% (60/153)[Kremote: Counting objects:  40% (62/153)[Kremote: Counting objects:  41% (63/153)[Kremote: Counting objects:  42% (65/153)[Kremote: Counting objects:  43% (66/153)[Kremote: Counting objects:  44% (68/153)[Kremote: Counting objects:  45% (69/153)[Kremote: Counting objects:  46% (71/153)[Kremote: Counting objects:  47% (72/153)[Kremote: Counting objects:  48% (74/153)[Kremote: Counting objects:  49% (75/153)[Kremote: Counting objects:  50% (77/153)[Kremote: Counting objects:  51% (79/153)[Kremote: Counting objects:  52% (80/153)[Kremote: Counting objects:  53% (82/153)[Kremote: Counting objects:  54% (83/153)[Kremote: Counting objects:  55% (85/153)[Kremote: Counting objects:  56% (86/153)[Kremote: Counting objects:  57% (88/153)[Kremote: Counting objects:  58% (89/153)[Kremote: Counting objects:  59% (91/153)[Kremote: Counting objects:  60% (92/153)[Kremote: Counting objects:  61% (94/153)[Kremote: Counting objects:  62% (95/153)[Kremote: Counting objects:  63% (97/153)[Kremote: Counting objects:  64% (98/153)[Kremote: Counting objects:  65% (100/153)[Kremote: Counting objects:  66% (101/153)[Kremote: Counting objects:  67% (103/153)[Kremote: Counting objects:  68% (105/153)[Kremote: Counting objects:  69% (106/153)[Kremote: Counting objects:  70% (108/153)[Kremote: Counting objects:  71% (109/153)[Kremote: Counting objects:  72% (111/153)[Kremote: Counting objects:  73% (112/153)[Kremote: Counting objects:  74% (114/153)[Kremote: Counting objects:  75% (115/153)[Kremote: Counting objects:  76% (117/153)[Kremote: Counting objects:  77% (118/153)[Kremote: Counting objects:  78% (120/153)[Kremote: Counting objects:  79% (121/153)[Kremote: Counting objects:  80% (123/153)[Kremote: Counting objects:  81% (124/153)[Kremote: Counting objects:  82% (126/153)[Kremote: Counting objects:  83% (127/153)[Kremote: Counting objects:  84% (129/153)[Kremote: Counting objects:  85% (131/153)[Kremote: Counting objects:  86% (132/153)[Kremote: Counting objects:  87% (134/153)[Kremote: Counting objects:  88% (135/153)[Kremote: Counting objects:  89% (137/153)[Kremote: Counting objects:  90% (138/153)[Kremote: Counting objects:  91% (140/153)[Kremote: Counting objects:  92% (141/153)[Kremote: Counting objects:  93% (143/153)[Kremote: Counting objects:  94% (144/153)[Kremote: Counting objects:  95% (146/153)[Kremote: Counting objects:  96% (147/153)[Kremote: Counting objects:  97% (149/153)[Kremote: Counting objects:  98% (150/153)[Kremote: Counting objects:  99% (152/153)[Kremote: Counting objects: 100% (153/153)[Kremote: Counting objects: 100% (153/153), done.[K
+remote: Compressing objects:   0% (1/129)[Kremote: Compressing objects:   1% (2/129)[Kremote: Compressing objects:   2% (3/129)[Kremote: Compressing objects:   3% (4/129)[Kremote: Compressing objects:   4% (6/129)[Kremote: Compressing objects:   5% (7/129)[Kremote: Compressing objects:   6% (8/129)[Kremote: Compressing objects:   7% (10/129)[Kremote: Compressing objects:   8% (11/129)[Kremote: Compressing objects:   9% (12/129)[Kremote: Compressing objects:  10% (13/129)[Kremote: Compressing objects:  11% (15/129)[Kremote: Compressing objects:  12% (16/129)[Kremote: Compressing objects:  13% (17/129)[Kremote: Compressing objects:  14% (19/129)[Kremote: Compressing objects:  15% (20/129)[Kremote: Compressing objects:  16% (21/129)[Kremote: Compressing objects:  17% (22/129)[Kremote: Compressing objects:  18% (24/129)[Kremote: Compressing objects:  19% (25/129)[Kremote: Compressing objects:  20% (26/129)[Kremote: Compressing objects:  21% (28/129)[Kremote: Compressing objects:  22% (29/129)[Kremote: Compressing objects:  23% (30/129)[Kremote: Compressing objects:  24% (31/129)[Kremote: Compressing objects:  25% (33/129)[Kremote: Compressing objects:  26% (34/129)[Kremote: Compressing objects:  27% (35/129)[Kremote: Compressing objects:  28% (37/129)[Kremote: Compressing objects:  29% (38/129)[Kremote: Compressing objects:  30% (39/129)[Kremote: Compressing objects:  31% (40/129)[Kremote: Compressing objects:  32% (42/129)[Kremote: Compressing objects:  33% (43/129)[Kremote: Compressing objects:  34% (44/129)[Kremote: Compressing objects:  35% (46/129)[Kremote: Compressing objects:  36% (47/129)[Kremote: Compressing objects:  37% (48/129)[Kremote: Compressing objects:  38% (50/129)[Kremote: Compressing objects:  39% (51/129)[Kremote: Compressing objects:  40% (52/129)[Kremote: Compressing objects:  41% (53/129)[Kremote: Compressing objects:  42% (55/129)[Kremote: Compressing objects:  43% (56/129)[Kremote: Compressing objects:  44% (57/129)[Kremote: Compressing objects:  45% (59/129)[Kremote: Compressing objects:  46% (60/129)[Kremote: Compressing objects:  47% (61/129)[Kremote: Compressing objects:  48% (62/129)[Kremote: Compressing objects:  49% (64/129)[Kremote: Compressing objects:  50% (65/129)[Kremote: Compressing objects:  51% (66/129)[Kremote: Compressing objects:  52% (68/129)[Kremote: Compressing objects:  53% (69/129)[Kremote: Compressing objects:  54% (70/129)[Kremote: Compressing objects:  55% (71/129)[Kremote: Compressing objects:  56% (73/129)[Kremote: Compressing objects:  57% (74/129)[Kremote: Compressing objects:  58% (75/129)[Kremote: Compressing objects:  59% (77/129)[Kremote: Compressing objects:  60% (78/129)[Kremote: Compressing objects:  61% (79/129)[Kremote: Compressing objects:  62% (80/129)[Kremote: Compressing objects:  63% (82/129)[Kremote: Compressing objects:  64% (83/129)[Kremote: Compressing objects:  65% (84/129)[Kremote: Compressing objects:  66% (86/129)[Kremote: Compressing objects:  67% (87/129)[Kremote: Compressing objects:  68% (88/129)[Kremote: Compressing objects:  69% (90/129)[Kremote: Compressing objects:  70% (91/129)[Kremote: Compressing objects:  71% (92/129)[Kremote: Compressing objects:  72% (93/129)[Kremote: Compressing objects:  73% (95/129)[Kremote: Compressing objects:  74% (96/129)[Kremote: Compressing objects:  75% (97/129)[Kremote: Compressing objects:  76% (99/129)[Kremote: Compressing objects:  77% (100/129)[Kremote: Compressing objects:  78% (101/129)[Kremote: Compressing objects:  79% (102/129)[Kremote: Compressing objects:  80% (104/129)[Kremote: Compressing objects:  81% (105/129)[Kremote: Compressing objects:  82% (106/129)[Kremote: Compressing objects:  83% (108/129)[Kremote: Compressing objects:  84% (109/129)[Kremote: Compressing objects:  85% (110/129)[Kremote: Compressing objects:  86% (111/129)[Kremote: Compressing objects:  87% (113/129)[Kremote: Compressing objects:  88% (114/129)[Kremote: Compressing objects:  89% (115/129)[Kremote: Compressing objects:  90% (117/129)[Kremote: Compressing objects:  91% (118/129)[Kremote: Compressing objects:  92% (119/129)[Kremote: Compressing objects:  93% (120/129)[Kremote: Compressing objects:  94% (122/129)[Kremote: Compressing objects:  95% (123/129)[Kremote: Compressing objects:  96% (124/129)[Kremote: Compressing objects:  97% (126/129)[Kremote: Compressing objects:  98% (127/129)[Kremote: Compressing objects:  99% (128/129)[Kremote: Compressing objects: 100% (129/129)[Kremote: Compressing objects: 100% (129/129), done.[K
+Receiving objects:   0% (1/153)Receiving objects:   1% (2/153)Receiving objects:   2% (4/153)Receiving objects:   3% (5/153)Receiving objects:   4% (7/153)Receiving objects:   5% (8/153)Receiving objects:   6% (10/153)Receiving objects:   7% (11/153)Receiving objects:   8% (13/153)Receiving objects:   9% (14/153)Receiving objects:  10% (16/153)Receiving objects:  11% (17/153)Receiving objects:  12% (19/153)Receiving objects:  13% (20/153)Receiving objects:  14% (22/153)Receiving objects:  15% (23/153)Receiving objects:  16% (25/153)Receiving objects:  17% (27/153)Receiving objects:  18% (28/153)Receiving objects:  19% (30/153)Receiving objects:  20% (31/153)Receiving objects:  21% (33/153)Receiving objects:  22% (34/153)Receiving objects:  23% (36/153)Receiving objects:  24% (37/153)Receiving objects:  25% (39/153)Receiving objects:  26% (40/153)Receiving objects:  27% (42/153)Receiving objects:  28% (43/153)Receiving objects:  29% (45/153)Receiving objects:  30% (46/153)Receiving objects:  31% (48/153)Receiving objects:  32% (49/153)Receiving objects:  33% (51/153)Receiving objects:  34% (53/153)Receiving objects:  35% (54/153)Receiving objects:  36% (56/153)Receiving objects:  37% (57/153)Receiving objects:  38% (59/153)Receiving objects:  39% (60/153)Receiving objects:  40% (62/153)Receiving objects:  41% (63/153)Receiving objects:  42% (65/153)Receiving objects:  43% (66/153)Receiving objects:  44% (68/153)Receiving objects:  45% (69/153)Receiving objects:  46% (71/153)Receiving objects:  47% (72/153)Receiving objects:  48% (74/153)Receiving objects:  49% (75/153)Receiving objects:  50% (77/153)Receiving objects:  51% (79/153)Receiving objects:  52% (80/153)Receiving objects:  53% (82/153)Receiving objects:  54% (83/153)Receiving objects:  55% (85/153)Receiving objects:  56% (86/153)Receiving objects:  57% (88/153)Receiving objects:  58% (89/153)Receiving objects:  59% (91/153)Receiving objects:  60% (92/153)Receiving objects:  61% (94/153)Receiving objects:  62% (95/153)Receiving objects:  63% (97/153)Receiving objects:  64% (98/153)Receiving objects:  65% (100/153)Receiving objects:  66% (101/153)Receiving objects:  67% (103/153)Receiving objects:  68% (105/153)Receiving objects:  69% (106/153)Receiving objects:  70% (108/153)Receiving objects:  71% (109/153)Receiving objects:  72% (111/153)Receiving objects:  73% (112/153)Receiving objects:  74% (114/153)Receiving objects:  75% (115/153)Receiving objects:  76% (117/153)Receiving objects:  77% (118/153)Receiving objects:  78% (120/153)Receiving objects:  79% (121/153)Receiving objects:  80% (123/153)Receiving objects:  81% (124/153)Receiving objects:  82% (126/153)Receiving objects:  83% (127/153)Receiving objects:  84% (129/153)Receiving objects:  85% (131/153)Receiving objects:  86% (132/153)Receiving objects:  87% (134/153)Receiving objects:  88% (135/153)Receiving objects:  89% (137/153)Receiving objects:  90% (138/153)Receiving objects:  91% (140/153)Receiving objects:  92% (141/153)remote: Total 153 (delta 22), reused 146 (delta 21), pack-reused 0[K
+Receiving objects:  93% (143/153)Receiving objects:  94% (144/153)Receiving objects:  95% (146/153)Receiving objects:  96% (147/153)Receiving objects:  97% (149/153)Receiving objects:  98% (150/153)Receiving objects:  99% (152/153)Receiving objects: 100% (153/153)Receiving objects: 100% (153/153), 7.66 MiB | 18.41 MiB/s, done.
+Resolving deltas:   0% (0/22)Resolving deltas:   4% (1/22)Resolving deltas:   9% (2/22)Resolving deltas:  13% (3/22)Resolving deltas:  18% (4/22)Resolving deltas:  22% (5/22)Resolving deltas:  27% (6/22)Resolving deltas:  31% (7/22)Resolving deltas:  36% (8/22)Resolving deltas:  40% (9/22)Resolving deltas:  45% (10/22)Resolving deltas:  50% (11/22)Resolving deltas:  54% (12/22)Resolving deltas:  59% (13/22)Resolving deltas:  63% (14/22)Resolving deltas:  68% (15/22)Resolving deltas:  72% (16/22)Resolving deltas:  77% (17/22)Resolving deltas:  81% (18/22)Resolving deltas:  86% (19/22)Resolving deltas:  90% (20/22)Resolving deltas:  95% (21/22)Resolving deltas: 100% (22/22)Resolving deltas: 100% (22/22), done.
+[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~[00m$ cd prpa
+[?2004l[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ ll
+[?2004ltotal 252
+drwxrwxr-x 12 alex alex   4096 feb 13 23:51 [0m[01;34m.[0m/
+drwxr-x--- 22 alex alex   4096 feb 13 23:51 [01;34m..[0m/
+drwxrwxr-x  2 alex alex   4096 feb 13 23:51 [01;34mauto[0m/
+drwxrwxr-x  4 alex alex   4096 feb 13 23:51 [01;34mejemplos[0m/
+drwxrwxr-x  2 alex alex   4096 feb 13 23:51 [01;34mejercicios[0m/
+-rw-rw-r--  1 alex alex  64390 feb 13 23:51 [01;35mescudo.png[0m
+drwxrwxr-x  2 alex alex   4096 feb 13 23:51 [01;34mestilo[0m/
+drwxrwxr-x  4 alex alex   4096 feb 13 23:51 [01;34mexamenes[0m/
+drwxrwxr-x  8 alex alex   4096 feb 13 23:51 [01;34m.git[0m/
+drwxrwxr-x  3 alex alex   4096 feb 13 23:51 [01;34mipython[0m/
+-rw-rw-r--  1 alex alex    248 feb 13 23:51 just_ene.aux
+-rw-rw-r--  1 alex alex   9261 feb 13 23:51 just_ene.log
+-rw-rw-r--  1 alex alex 112327 feb 13 23:51 just_ene.pdf
+-rw-rw-r--  1 alex alex   2790 feb 13 23:51 [01;31mjust_ene.synctex.gz[0m
+-rw-rw-r--  1 alex alex   2287 feb 13 23:51 just_ene.tex
+drwxrwxr-x  4 alex alex   4096 feb 13 23:51 [01;34mnotebook[0m/
+drwxrwxr-x  5 alex alex   4096 feb 13 23:51 [01;34mpracticas[0m/
+drwxrwxr-x  2 alex alex   4096 feb 13 23:51 [01;34mproblemas[0m/
+-rw-rw-r--  1 alex alex     57 feb 13 23:51 README.md
+[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ cd examenes/
+[?2004l[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa/examenes[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa/examenes[00m$ ll
+[?2004ltotal 16
+drwxrwxr-x  4 alex alex 4096 feb 13 23:51 [0m[01;34m.[0m/
+drwxrwxr-x 12 alex alex 4096 feb 13 23:51 [01;34m..[0m/
+drwxrwxr-x  2 alex alex 4096 feb 13 23:51 [01;34menero_2018[0m/
+drwxrwxr-x  3 alex alex 4096 feb 13 23:51 [01;34mfeb[0m/
+[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa/examenes[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa/examenes[00m$ cd
+[?2004l[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~[00m$ cd prpa 
+[?2004l[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ rm just_ene.auz[Kx just_ene.log just_ene.pdf
+[?2004l[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ ll
+[?2004ltotal 124
+drwxrwxr-x 12 alex alex  4096 feb 13 23:53 [0m[01;34m.[0m/
+drwxr-x--- 22 alex alex  4096 feb 13 23:51 [01;34m..[0m/
+drwxrwxr-x  2 alex alex  4096 feb 13 23:51 [01;34mauto[0m/
+drwxrwxr-x  4 alex alex  4096 feb 13 23:51 [01;34mejemplos[0m/
+drwxrwxr-x  2 alex alex  4096 feb 13 23:51 [01;34mejercicios[0m/
+-rw-rw-r--  1 alex alex 64390 feb 13 23:51 [01;35mescudo.png[0m
+drwxrwxr-x  2 alex alex  4096 feb 13 23:51 [01;34mestilo[0m/
+drwxrwxr-x  4 alex alex  4096 feb 13 23:51 [01;34mexamenes[0m/
+drwxrwxr-x  8 alex alex  4096 feb 13 23:51 [01;34m.git[0m/
+drwxrwxr-x  3 alex alex  4096 feb 13 23:51 [01;34mipython[0m/
+-rw-rw-r--  1 alex alex  2790 feb 13 23:51 [01;31mjust_ene.synctex.gz[0m
+-rw-rw-r--  1 alex alex  2287 feb 13 23:51 just_ene.tex
+drwxrwxr-x  4 alex alex  4096 feb 13 23:51 [01;34mnotebook[0m/
+drwxrwxr-x  5 alex alex  4096 feb 13 23:51 [01;34mpracticas[0m/
+drwxrwxr-x  2 alex alex  4096 feb 13 23:51 [01;34mproblemas[0m/
+-rw-rw-r--  1 alex alex    57 feb 13 23:51 README.md
+[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ [7mgit clone https://github.com/LuisLlana/prpa.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/LuisLlana/prpa.git[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mgit clone https://github.com/LuisLlana/prpa.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pgit clone https://github.com/LuisLlana/prpa.gi[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mgit clone https://github.com/LuisLlana/prpa.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pgit clone https://github.com/LuisLlana/prpa.gi[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcp ejempllo[K[Kos em[Kjemplos_new
+[?2004lcp: -r not specified; omitting directory 'ejemplos'
+[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ cp ejemplos ejemplos_new[1@-[1@r[1@ 
+[?2004l[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ cd ejemplos_new/
+[?2004l[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa/ejemplos_new[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa/ejemplos_new[00m$ ll
+[?2004ltotal 36
+drwxrwxr-x  4 alex alex 4096 feb 13 23:54 [0m[01;34m.[0m/
+drwxrwxr-x 13 alex alex 4096 feb 13 23:54 [01;34m..[0m/
+-rw-rw-r--  1 alex alex 5369 feb 13 23:54 chess_pieces.py
+-rw-rw-r--  1 alex alex  363 feb 13 23:54 circle.py
+drwxrwxr-x  2 alex alex 4096 feb 13 23:54 [01;34mprimos[0m/
+drwxrwxr-x  3 alex alex 4096 feb 13 23:54 [01;34mreferencias[0m/
+-rw-rw-r--  1 alex alex 1033 feb 13 23:54 [01;31mreferencias.tgz[0m
+-rw-rw-r--  1 alex alex  564 feb 13 23:54 who_am_i.py
+[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa/ejemplos_new[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa/ejemplos_new[00m$ cd
+[?2004l[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~[00m$ cd pra[Kpa
+[?2004l[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ [7mgit clone https://github.com/LuisLlana/prpa.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pgit clone https://github.com/LuisLlana/prpa.gi[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcp -a escudo.png em[Kjemplos/escudo.png
+[?2004l[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ cp -a escudo.png ejemplos/escudo.png_/escudo.pngn/escudo.pnge/escudo.pngw/escudo.png
+[?2004l[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ ll
+[?2004ltotal 128
+drwxrwxr-x 13 alex alex  4096 feb 13 23:54 [0m[01;34m.[0m/
+drwxr-x--- 22 alex alex  4096 feb 13 23:51 [01;34m..[0m/
+drwxrwxr-x  2 alex alex  4096 feb 13 23:51 [01;34mauto[0m/
+drwxrwxr-x  4 alex alex  4096 feb 13 23:56 [01;34mejemplos[0m/
+drwxrwxr-x  4 alex alex  4096 feb 13 23:56 [01;34mejemplos_new[0m/
+drwxrwxr-x  2 alex alex  4096 feb 13 23:51 [01;34mejercicios[0m/
+-rw-rw-r--  1 alex alex 64390 feb 13 23:51 [01;35mescudo.png[0m
+drwxrwxr-x  2 alex alex  4096 feb 13 23:51 [01;34mestilo[0m/
+drwxrwxr-x  4 alex alex  4096 feb 13 23:51 [01;34mexamenes[0m/
+drwxrwxr-x  8 alex alex  4096 feb 13 23:51 [01;34m.git[0m/
+drwxrwxr-x  3 alex alex  4096 feb 13 23:51 [01;34mipython[0m/
+-rw-rw-r--  1 alex alex  2790 feb 13 23:51 [01;31mjust_ene.synctex.gz[0m
+-rw-rw-r--  1 alex alex  2287 feb 13 23:51 just_ene.tex
+drwxrwxr-x  4 alex alex  4096 feb 13 23:51 [01;34mnotebook[0m/
+drwxrwxr-x  5 alex alex  4096 feb 13 23:51 [01;34mpracticas[0m/
+drwxrwxr-x  2 alex alex  4096 feb 13 23:51 [01;34mproblemas[0m/
+-rw-rw-r--  1 alex alex    57 feb 13 23:51 README.md
+[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ rm -r em[Kjemplos_new/
+[?2004l[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ ll
+[?2004ltotal 124
+drwxrwxr-x 12 alex alex  4096 feb 13 23:57 [0m[01;34m.[0m/
+drwxr-x--- 22 alex alex  4096 feb 13 23:51 [01;34m..[0m/
+drwxrwxr-x  2 alex alex  4096 feb 13 23:51 [01;34mauto[0m/
+drwxrwxr-x  4 alex alex  4096 feb 13 23:56 [01;34mejemplos[0m/
+drwxrwxr-x  2 alex alex  4096 feb 13 23:51 [01;34mejercicios[0m/
+-rw-rw-r--  1 alex alex 64390 feb 13 23:51 [01;35mescudo.png[0m
+drwxrwxr-x  2 alex alex  4096 feb 13 23:51 [01;34mestilo[0m/
+drwxrwxr-x  4 alex alex  4096 feb 13 23:51 [01;34mexamenes[0m/
+drwxrwxr-x  8 alex alex  4096 feb 13 23:51 [01;34m.git[0m/
+drwxrwxr-x  3 alex alex  4096 feb 13 23:51 [01;34mipython[0m/
+-rw-rw-r--  1 alex alex  2790 feb 13 23:51 [01;31mjust_ene.synctex.gz[0m
+-rw-rw-r--  1 alex alex  2287 feb 13 23:51 just_ene.tex
+drwxrwxr-x  4 alex alex  4096 feb 13 23:51 [01;34mnotebook[0m/
+drwxrwxr-x  5 alex alex  4096 feb 13 23:51 [01;34mpracticas[0m/
+drwxrwxr-x  2 alex alex  4096 feb 13 23:51 [01;34mproblemas[0m/
+-rw-rw-r--  1 alex alex    57 feb 13 23:51 README.md
+[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ [7mgrep -Ril "texto-a-encontrar-aqui"[27mgrep -Ril "texto-a-encontrar-aqui"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"r"a"d"u"[1P"i"o"u"[1P"[1P"u"s"
+[?2004l[35m[Kestilo/estilo.tex[m[K
+[35m[Kipython/funciones.ipynb[m[K
+[35m[Kipython/tipos_basicos.html[m[K
+[35m[Knotebook/funciones.ipynb[m[K
+[35m[Kejemplos/circle.py[m[K
+[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ mv ejemplosº[K/circle.py prpa[K[K[K[Kcircle.py
+[?2004l[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ ll
+[?2004ltotal 128
+drwxrwxr-x 12 alex alex  4096 feb 14 00:04 [0m[01;34m.[0m/
+drwxr-x--- 22 alex alex  4096 feb 13 23:51 [01;34m..[0m/
+drwxrwxr-x  2 alex alex  4096 feb 13 23:51 [01;34mauto[0m/
+-rw-rw-r--  1 alex alex   363 feb 13 23:51 circle.py
+drwxrwxr-x  4 alex alex  4096 feb 14 00:04 [01;34mejemplos[0m/
+drwxrwxr-x  2 alex alex  4096 feb 13 23:51 [01;34mejercicios[0m/
+-rw-rw-r--  1 alex alex 64390 feb 13 23:51 [01;35mescudo.png[0m
+drwxrwxr-x  2 alex alex  4096 feb 13 23:51 [01;34mestilo[0m/
+drwxrwxr-x  4 alex alex  4096 feb 13 23:51 [01;34mexamenes[0m/
+drwxrwxr-x  8 alex alex  4096 feb 13 23:51 [01;34m.git[0m/
+drwxrwxr-x  3 alex alex  4096 feb 13 23:51 [01;34mipython[0m/
+-rw-rw-r--  1 alex alex  2790 feb 13 23:51 [01;31mjust_ene.synctex.gz[0m
+-rw-rw-r--  1 alex alex  2287 feb 13 23:51 just_ene.tex
+drwxrwxr-x  4 alex alex  4096 feb 13 23:51 [01;34mnotebook[0m/
+drwxrwxr-x  5 alex alex  4096 feb 13 23:51 [01;34mpracticas[0m/
+drwxrwxr-x  2 alex alex  4096 feb 13 23:51 [01;34mproblemas[0m/
+-rw-rw-r--  1 alex alex    57 feb 13 23:51 README.md
+[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ [7mgrep -Ril "texto-a-encontrar-aqui"[27m[1Pgrep -Ril "texto-a-encontrar-aqui[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kfinf[Kd . -type f -iname ""."[1P"*"."t"e"c"[1P"x"[C
+[?2004l./estilo/estilo.tex
+./problemas/hoja2.tex
+./problemas/hoja1.tex
+./problemas/hoja3.tex
+./problemas/datosAsignatura.tex
+./practicas/p2/Informatica2017-2018_Practica2.tex
+./practicas/p0/practica_0_domino.tex
+./practicas/p0/datosAsignatura.tex
+./practicas/p1/datosAsignatura.tex
+./practicas/p1/practica_1_ajedrez.tex
+./ejercicios/hoja4.tex
+./ejercicios/hoja3.tex
+./just_ene.tex
+./examenes/feb/ene2018.tex
+./examenes/feb/codigos_2018.tex
+./examenes/feb/ene2017_simon.tex
+./examenes/feb/codigos_simon.tex
+./examenes/feb/curso2016/feb2016.tex
+[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ find . -type f -iname "*.tex" -size +20
+[?2004l./examenes/feb/curso2016/feb2016.tex
+[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ rm examenes/feb/curso2016/feb2016.tex 
+[?2004l[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa[00m$ ex[K[Kde[K[Kcd examenes/fef[Kb
+[?2004l[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa/examenes/feb[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa/examenes/feb[00m$ heas[Kd -20 ene2018.tex 
+[?2004l\documentclass[10pt]{examdesign}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\selectlanguage{spanish}
+\usepackage{listings}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumerate}
+
+\lstset{
+  language=Python,
+  frame=single,
+  basicstyle=\sffamily,
+  showstringspaces=false
+  %basicstyle=\ttfamily,
+}
+
+\NumberOfVersions{4} %Poner a 2 en la versión final
+\NoRearrange % Eliminar para generar el examen definitivo
+\ContinuousNumbering
+\IncludeFromFile{codigos_2018.tex}
+[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa/examenes/feb[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa/examenes/feb[00m$ head -20 ene2018.tex [1P[1P[1P[1P[1@t[1@a[1@i[1@l
+[?2004l\lstinline{\"la\"}, \lstinline{\"mancha\"}, \lstinline{\"de\"}, \lstinline{\"cuyo\"} y \lstinline{\"nombre\"}.
+Para distinguir si un carácter es una letra o un signo de puntuación o separador puedes suponer definida la siguiente función:
+  \InsertChunk{def_is_letter}
+
+Escribe una función en Python que dada una cadena de caracteres devuelva la lista de las palabras que contiene.
+
+
+  \end{question}
+
+
+
+
+\end{shortanswer}
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
+[?2004h]0;alex@alex-HP-Laptop-15-da0xxx: ~/prpa/examenes/feb[01;32malex@alex-HP-Laptop-15-da0xxx[00m:[01;34m~/prpa/examenes/feb[00m$ [?2004l
+exit
+
+Script done on 2023-02-14 00:09:45+01:00 [COMMAND_EXIT_CODE="0"]
